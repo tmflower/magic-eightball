@@ -1,0 +1,36 @@
+.App {    
+    text-align: center;
+}
+
+.title {
+    font-size: 4rem;
+    color: purple;
+    margin-bottom: 100px;
+}
+
+.eightball {
+    width: 300px;
+    color: white;
+    border-radius: 50%;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin: auto;
+}
+
+button {
+    color: white;
+    background-color: rgb(172, 80, 172);
+    font-size: 1.5rem;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
